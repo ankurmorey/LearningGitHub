@@ -1,8 +1,10 @@
 git init (to start git tracking our repository/direcotery/folder)
+git status(to check the status of the repo)
 git add <filename> (to stage the code)
 git commit -m "message"(to commit the code)
 there is command to connect local repository to github repository
 git push (command to send code to github)
+git pull(command to fetch code from github to local repository)
 concept of branch (master samjaeega)
 merge request/pull request(master samjaeega)
 merge conflict 
